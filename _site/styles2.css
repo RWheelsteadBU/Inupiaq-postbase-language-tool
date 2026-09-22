@@ -1,0 +1,221 @@
+/* TWO-PANEL CONTAINER */
+
+.two-panel {
+  /* use flexbox (allows for side by side panels) */
+  display: flex !important;
+  /* place panels in rows */
+  flex-direction: row !important;
+  position: relative;
+  width: 100%;
+  min-height: 500px;
+  /* content can extend outside of panel */
+  overflow: visible !important;
+}
+
+
+/* MAIN PANEL */
+
+.main-panel {
+  flex: 0 0 50% !important;
+  width: 50% !important;
+
+  padding: 30px;
+  box-sizing: border-box;
+
+  min-width: 0;
+  overflow: visible !important;
+}
+
+
+/* RIGHT SIDE / ENGLISH PANEL */
+
+.side-panel {
+  /* grow, shrink, basis (assigned size)*/
+  flex: 0 0 50% !important;
+  width: 50% !important;
+
+  padding: 30px;
+  box-sizing: border-box;
+
+  /* dark gray hexadecimal */
+  background-color: #222;
+  color: white;
+
+  border-left: 1px solid #444;
+
+  min-width: 0;
+  overflow: hidden;
+
+  /* when the panel changes, animate over .035s */
+  transition:
+    flex-basis 0.35s ease,
+    width 0.35s ease,
+    opacity 0.35s ease,
+    padding 0.35s ease;
+}
+
+
+/* TOGGLE BUTTON */
+
+.toggle-button {
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  /* place button at center of relative two-panel */
+  transform: translate(-50%, -50%);
+
+  /* button is at frontmost layer */
+  z-index: 100;
+
+  width: 32px;
+  height: 50px;
+
+  padding: 0;
+
+  border: 1px solid #555;
+  /* rounded corners for button */
+  border-radius: 16px;
+
+  background-color: #222;
+  color: white;
+
+  font-size: 24px;
+  cursor: pointer;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
+
+  transition:
+    left 0.35s ease,
+    background-color 0.2s ease;
+}
+
+
+.toggle-button:hover {
+  background-color: #444;
+}
+
+
+/* COLLAPSED / FULL-WIDTH MAIN PANEL */
+
+.two-panel.collapsed .main-panel {
+  /* when collapsed, main panel takes up 100% of space */
+  flex: 0 0 100% !important;
+  width: 100% !important;
+}
+
+
+.two-panel.collapsed .side-panel {
+  /* when collapsed, side panel is completely gone */
+  flex: 0 0 0% !important;
+  width: 0 !important;
+
+  padding-left: 0;
+  padding-right: 0;
+
+  opacity: 0;
+  border-left: none;
+}
+
+
+/* Move toggle button to right edge */
+
+/* when two panels container is collapsed, do this to the button */
+.two-panel.collapsed .toggle-button {
+  /* calculate 100% of the container then take away 16px*/
+  left: calc(100% - 16px);
+}
+
+
+/* MAIN PANEL CONTENT TEXT */
+
+.main-content {
+  display: flex;
+  /* put children at top of container */
+  align-items: flex-start;
+  gap: 30px;
+  width: 100%;
+}
+
+
+/* HOVER TEXT */
+
+.my-hover {
+  display: block;
+  position: relative;
+
+  color: white;
+  cursor: pointer;
+
+  margin: 25px 0;
+}
+
+
+/* Popup */
+
+.my-hover-text {
+  /* don't automatically show this */
+  display: none;
+
+  position: absolute;
+
+  /* this is the most front layered item to appear*/
+  z-index: 9999;
+
+  left: 300px;
+  top: 50%;
+
+  transform: translateY(-50%);
+
+  width: 350px;
+
+  padding: 15px;
+
+  background: #333;
+  color: white;
+
+  border: 1px solid #666;
+  border-radius: 8px;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+
+/* Show popup on hover */
+
+.my-hover:hover .my-hover-text {
+  /* when hovering, makes text visible from "none" */
+  display: block;
+}
+
+
+/* Popup paragraph spacing */
+
+/* for every "p", give 12px spacing to bottom */
+.my-hover-text p {
+  margin: 0 0 12px 0;
+}
+
+/* last item in a "p" doesn't need the spacing */
+.my-hover-text p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* SMALL SCREENS */
+
+/* if screen is 768px or smaller... */
+@media (max-width: 768px) {
+
+  /* keep the two panels horizontally */
+  .two-panel {
+    flex-direction: row !important;
+  }
+
+  .main-panel,
+  .side-panel {
+    padding: 20px;
+  }
+
+}
