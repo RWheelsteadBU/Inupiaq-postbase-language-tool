@@ -12,5 +12,19 @@
     "title": "Inupiaq postbase tool",
     "section": "",
     "text": "---\ntitle: \"Two Panel Page\"\nformat:\n  html:\n    css: styles.css\n---\n\n\n&lt;div class=\"two-panel\" id=\"two-panel\"&gt;\n\n  &lt;div class=\"main-panel\"&gt;\n\n    &lt;h2&gt;Inupiaq&lt;/h2&gt;\n\n    &lt;p&gt;\n    Taiguaqta by Edna Ahgeak MacLean\n\n    Nukatpiaġruk niksiksuqtuq.\n\n    Niksiksullaturuq.\n\n    Niksiksullatuviñi?\n    &lt;/p&gt;\n\n  &lt;/div&gt;\n\n  &lt;div class=\"side-panel\" id=\"side-panel\"&gt;\n\n    &lt;h2&gt;English&lt;/h2&gt;\n\n    &lt;p&gt;\n    Let's Read! by Edna Agheak MacLean\n\n    The boy is fishing.\n\n    He enjoys fishing.\n\n    Do you like fishing?\n    &lt;/p&gt;\n\n  &lt;/div&gt;\n\n  &lt;button\n    class=\"toggle-button\"\n    id=\"toggle-button\"\n    onclick=\"togglePanel()\"&gt;\n    ›\n  &lt;/button&gt;\n\n&lt;/div&gt;\n\n&lt;script&gt;\nfunction togglePanel() {\n\n  const container = document.getElementById(\"two-panel\");\n\n  container.classList.toggle(\"collapsed\");\n\n  const button = document.getElementById(\"toggle-button\");\n\n  if (container.classList.contains(\"collapsed\")) {\n    button.textContent = \"‹\";\n  } else {\n    button.textContent = \"›\";\n  }\n}\n&lt;/script&gt;"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Iñupiaq Postbase Tool",
+    "section": "",
+    "text": "Inupiaq stories in progress \n\nTaiguaqta by Edna MacLean\nAgviq by Harold Kaveolook\nAvinnaq by Arthur Douglas Sr."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is an online tool to learn more about the postbase system in Inupiaq while also engaging with Inupiat stories.\n How to use this tool \n\nThis tool offers a way to read Inupiat stories online and interact with the structure of the language. This can help learners see how different elements of a word interact with each other in different ways.\n\n\nThere is an option to read each story in Inupiaq only, or Inupiaq and English. Additionally, if you hover your mouse over specific words, a pop-up bubble will offer information about the structure of the Inupiaq word and any additional or helpful notes.\n\n Postbase and word structure basics \n\n(information adapted from Myles Creed’s 2024 Ilisazaqta Inupiaqtun)"
   }
 ]
