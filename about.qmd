@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+This is an online tool to learn more about the postbase system in Inupiaq while also engaging with Inupiat stories.
+
+<u> How to use this tool </u>
+<p> This tool offers a way to read Inupiat stories online and interact with the structure of the language. This can help learners see how different elements of a word interact with each other in different ways. </p> 
+
+<p> There is an option to read each story in Inupiaq only, or Inupiaq and English. Additionally, if you hover your mouse over specific words, a pop-up bubble will offer information about the structure of the Inupiaq word and any additional or helpful notes. </p>  
+
+<u> Postbase and word structure basics </u>
+<p> (information adapted from Myles Creed's 2024 Ilisazaqta Inupiaqtun) </p>
