@@ -129,12 +129,11 @@
 
 
 /* MAIN PANEL CONTENT TEXT */
+/* All text/image rows stack vertically */
 
 .main-content {
-  display: flex;
-  /* put children at top of container */
-  align-items: flex-start;
-  gap: 30px;
+  display: flex !important;
+  flex-direction: column !important;
   width: 100%;
 }
 
@@ -200,6 +199,65 @@
 /* last item in a "p" doesn't need the spacing */
 .my-hover-text p:last-child {
   margin-bottom: 0;
+}
+
+/* TEXT + IMAGE ROW */
+
+.text-image-row {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 25px;
+  width: 100%;
+  margin: 10px 0 !important;
+}
+
+/* GROUP OF TEXT LINES */
+
+.text-lines {
+  display: flex !important;
+  flex-direction: column !important;
+  flex: 1 1 auto !important;
+  min-width: 0;
+}
+
+/* Individual text lines */
+
+.text-lines .my-hover {
+  display: block !important;
+  width: 100%;
+  margin: 10px 0;
+  position: relative;
+}
+
+
+/* IMAGE */
+
+.group-image {
+  display: none;
+  flex: 0 0 150px !important;
+  width: 150px !important;
+  height: 150 !important;
+  max-width: 150px !important;
+  max-height: 150px !important;
+  object-fit: contain;
+  align-self: flex-start;
+  flex-shrink: 0 !important;
+}
+
+.group-image.large-image {
+  flex-basis: 220px !important;
+  width: 220px !important;
+  height: 220px !important;
+  max-width: 220px !important;
+  max-height: 220px !important;
+}
+
+
+/* SHOW IMAGE WHEN SIDE PANEL IS COLLAPSED */
+
+.two-panel.collapsed .group-image {
+  display: block !important;
 }
 
 

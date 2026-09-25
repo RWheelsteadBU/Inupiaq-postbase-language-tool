@@ -1,5 +1,5 @@
 ---
-title: "Taiguaqta"
+title: "Taiguaqta by Edna Ahgeak MacLean"
 format: 
   html: 
     css: styles2.css
@@ -7,120 +7,105 @@ format:
 
 <!-- Reminders: if something isn't loading great, you can use two commands in this order. system("quarto render") and then system("quarto preview") -->
 
-<!-- Also, make individual html blocks for each set of interactive text-->
-
 ::::: {#two-panel .two-panel}
 ::: main-panel
 <h2>Inupiaq</h2>
 
 ```{=html}
-<!-- This block allows the text and a hover pop up-->
+<div class="main-content">
 
-<!-- This is for the text seen on the page -->
-<div class="my-hover">
-  Taiguaqta by Edna Ahgeak MacLean
+<!-- PARAGRAPH 1 -->
+<div class="text-image-row">
   
-  <!-- This is for the text in the pop up -->
-  <div class="my-hover-text">
-    <p><strong> Taiguaq-ta </strong></p>
-  
-    <p> Ending "ta" is for third-person plural. </p>
-  
+  <div class="text-lines">
+    
+    <div class="my-hover">
+      Nukatpiaġruk niksiksuqtuq.
+
+      <div class="my-hover-text">
+        <p><strong>Nukatpiaġruk niksik-suq-tuq</strong></p>
+      </div>
+    </div>
+
+    <div class="my-hover">
+      Niksiksullaturuq.
+
+      <div class="my-hover-text">
+        <p><strong>Niksik-su-llatu-ruq</strong></p>
+
+        <p>Postbase "su" means "regularly".</p>
+
+        <p>Postbase "llatu" means "to enjoy Xing".</p>
+
+        <p>Ending "ruq" is for intransitive, indicative, third-person singular. While third-person "tuq" is used when following a consonant, "ruq" is used when following a vowel.</p>
+      </div>
+    </div>
+
+    <div class="my-hover">
+      Niksiksullatuviñ?
+
+      <div class="my-hover-text">
+        <p><strong>Niksik-su-llatu-viñ</strong></p>
+
+        <p>Ending "viñ" is for intransitive, interrogative, second-person singular.</p>
+      </div>
+    </div>
   </div>
+  <img src="images/fishing.png" class="group-image">
 </div>
-```
-
-```{=html}
-<div class="my-hover">
-  Nukatpiaġruk niksiksuqtuq.
-
-  <div class="my-hover-text">
-    <p><strong> Nukatpiaġruk niksik-suq-tuq </strong></p>
-    
-  </div>
-</div>
-```
-
-
-```{=html}
-<div class="my-hover">
-  Niksiksullaturuq.
-  
-  <div class="my-hover-text">
-    <p><strong> Niksik-su-llatu-ruq </strong></p>
-    
-    <p> Postbase "su" means "regularly". </p>
-    
-    <p> Postbase "llatu" means "to enjoy Xing". </p>
-    
-    <p> Ending "ruq" is for intransitive, indicative, third-person singular. While third-person "tuq" is used when following a consonant, "ruq" is used when following a vowel. </p>
-    
-  </div>
-</div> 
-```
-
-```{=html}
-<div class="my-hover">
-  Niksiksullatuviñ?
-  
-  <div class="my-hover-text">
-    <p><strong> Niksik-su-llatu-viñ </strong></p>
-    
-    <p> Ending "viñ" is for intransitive, interrogative, second-person singular. </p>
-    
-  </div>
-</div>
-```
 
 <br><br>
+<br><br>
 
-```{=html}
+<!--- PARAGRAPH 2 --->
+<div class="text-image-row">
 
-<div class="my-hover">
-  Aġnaġlu nukatpiaġlu kuvriqsuk.
+  <div class="text-lines">
   
-  <div class="my-hover-text">
-  
-    <p><strong> Agnaq-lu nukatpiaq-lu kuvrIq-tuk </strong></p>
-  
-    <p> Postbase "lu" means "and". Notice it is marked on both subjects in the sentence. </p>
-  
-    <p> Ending "tuk" is for intransitive, indicative,   third-person dual marking. </p>
-  
-    <p> Notice the strong i in "kuvrIq"? Near the end of the word, it palatalizes the "t" in "tuk" to "s". </p>
-  </div>
-</div>
-```
+    <div class="my-hover">
+      Aġnaġlu nukatpiaġlu kuvriqsuk.
 
-```{=html}
-<div class="my-hover">
-  Nukatpiaq aquttuq.
-  
-  <div class="my-hover-text">
-    <p><strong> Nukatpiaq aqut-tuq </strong></p>
-  
-    <p> Ending "tuq" is for intransitive, indicative, third-person singular. Note how it is different from "tuk" in the previous story line. </p>
-  </div>
-</div>
-```
+      <div class="my-hover-text">
+        <p><strong>Agnaq-lu nukatpiaq-lu kuvrIq-tuk</strong></p>
 
-```{=html}
-<div class="my-hover">
-  Kuvriqsiḷḷaviñ?
-  
-  <div class="my-hover-text">
-    <p><strong> Kuvriq-si-ḷḷa-viñ </strong></p>
+        <p>Postbase "lu" means "and". Notice it is marked on both subjects in the sentence.</p>
+
+        <p>Ending "tuk" is for intransitive, indicative, third-person dual marking.</p>
+
+        <p>Notice the strong i in "kuvrIq"? Near the end of the word, it palatalizes the "t" in "tuk" to "s".</p>
+      </div>
+    </div>
     
-    <p> Postbase "ḷḷa" means "to be able to". </p>
+    <div class="my-hover">
+      Nukatpiaq aquttuq.
+
+      <div class="my-hover-text">
+        <p><strong>Nukatpiaq aqut-tuq</strong></p>
+
+        <p>Ending "tuq" is for intransitive, indicative, third-person singular. Note how it is different from "tuk" in the previous story line.</p>
+      </div>
+    </div>
     
-    <p> Ending "viñ" is for intransitive, interrogative, second-person, singular.  </p>
-  
+    <div class="my-hover">
+      Kuvriqsiḷḷaviñ?
+
+      <div class="my-hover-text">
+        <p><strong>Kuvriq-si-ḷḷa-viñ</strong></p>
+
+        <p>Postbase "ḷḷa" means "to be able to".</p>
+
+        <p>Ending "viñ" is for intransitive, interrogative, second-person, singular.</p>
+      </div>
+    </div>
   </div>
+  <img src="images/net.png" class="group-image large-image">
+</div>
+
+
 </div>
 ```
-
-
 :::
+
 
 ::: {#side-panel .side-panel}
 <h2>English</h2>
