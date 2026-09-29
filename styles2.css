@@ -61,10 +61,10 @@
   position: absolute;
 
   left: 50%;
-  top: 50%;
+  top: 10px;
 
   /* place button at center of relative two-panel */
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
 
   /* button is at frontmost layer */
   z-index: 100;

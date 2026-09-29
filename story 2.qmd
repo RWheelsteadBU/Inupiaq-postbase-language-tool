@@ -1,0 +1,161 @@
+---
+title: "Avinnaq by Arthur Douglas Sr."
+format: 
+  html:
+    css: styles2.css
+---
+
+::::: {#two-panel .two-panel}
+::: main-panel
+<h2>Inupiaq</h2>
+
+```{=html}
+<div class="main-content">
+
+<!--- PARAGRAPH 1 --->
+<div class="text-image-row">
+  
+  <div class="text-lines">
+    
+    <div class="my-hover">
+      IỊaatnigguuq Aviññaq puuvruuraqtuq.
+      
+      <div class="my-hover-text">
+        <p><strong> IỊaatnigguuq Aviññaq puuvruu-raq-tuq. </strong></p>
+        
+        <p> Stem "puuvruu" means "to swim". </p>
+        
+        <p> Ending "raq" is a past tense marker. </p>
+        
+        <p> Ending "tuq" is for intransitive, indicative, third-person singular. Notice that "tuq" is used when following a consonant, and "ruq" is used when following a vowel. </p> 
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--- PARAGRAPH 2 --->
+<div class="text-image-row">
+
+  <div class="text-lines">
+  
+    <div class="my-hover">
+      lkaaġaa kuuk.
+      
+      <div class="my-hover-text">
+        <p><strong> lkaaq-ġaa kuuk. </strong></p>
+        
+        <p> Stem "ikaaq" means to cross. </p>
+        
+        <p> Ending "ġaa" is for transitive, indicative verbs. Since both arguments (the subject and the object) are third-person, -a is added to +k/ga. </p>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--- PARAGRAPH 3 --->
+<div class="text-image-row">
+
+  <div class="text-lines">
+  
+    <div class="my-hover">
+      lkaaŋanikamiuŋguuqtai kiŋiaqhuni nipliqsuq,
+      
+      <div class="my-hover-text">
+        <p><strong> lkaaq-ŋanika-mi?-uŋguuqtai kiŋiaq-huni nipliq-suq, </strong></p>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--- PARAGRAPH 4 --->
+<div class="text-image-row">
+
+  <div class="text-lines">
+  
+    <div class="my-hover">
+      "Kuukpaaluk ikaalla∤ualgitchiga kisima." 
+      
+      <div class="my-hover-text">
+        <p><strong> Kuuk-paaluk ikaa-lla∤ualgitchiga kisima. </strong></p>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--- PARAGRAPH 5 --->
+<div class="text-image-row">
+
+  <div class="text-lines">
+  
+    <div class="my-hover">
+      Sunauvvagguuq uvva iñuum tutmavia maqatlami, imiġmik imalik ikaakkaŋa.
+      
+      <div class="my-hover-text">
+        <p><strong> Sunauvvagguuq uvva iñuum tutmi-avia maqatlami, imik-mik ima-lik ikaakkaŋa. </strong></p>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+
+```
+:::
+
+::: {#side-panel .side-panel}
+<h2>English</h2>
+
+<p><strong> The Mouse Story by Arthur Douglas Sr. </strong></p>
+
+<p> It is said that once upon a time, Mouse was swimming. </p>
+
+<p> He crossed a river. </p>
+
+<p> After he had crossed it, he looked back and proudly remarked, </p>
+
+<p> "I have crossed the great big river all by myself." </p> 
+
+<p> Actually, what had happened was that he had crossed a person's footprint in soft mud which was filled with water. </p>
+:::
+
+```{=html}
+<button class="toggle-button" id="toggle-button" onclick="togglePanel()">
+
+›
+
+</button>
+```
+
+:::::
+
+```{=html}
+<!-- This is javascript -->
+<script>
+
+function togglePanel() {
+
+<!-- find the two panel container and... -->
+const container = document.getElementById("two-panel");
+
+<!-- allow for the container to be open or collapsed --> 
+container.classList.toggle("collapsed");
+
+<!-- find the button and... -->
+const button = document.getElementById("toggle-button");
+
+<!-- change the direction of the arrow if open or collapsed -->
+if (container.classList.contains("collapsed")) {
+button.textContent = "‹";
+} else {
+button.textContent = "›";
+}
+}
+
+</script>
+```
+
+

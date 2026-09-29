@@ -11,7 +11,9 @@ website:
       - href: about.qmd
         text: About
       - href: story 1.qmd
-        text: Stories
+        text: Taiguaqta
+      - href: story 2.qmd
+        text: Aviññaq
   search: True
 
 format:
