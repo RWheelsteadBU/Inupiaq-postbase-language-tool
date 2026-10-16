@@ -5,5 +5,4 @@ title: "Iñupiaq Postbase Tool"
 <u> Inupiaq stories in progress </u>
 
 -   [Taiguaqta](story%201.qmd) by Edna MacLean
--   Agviq by Harold Kaveolook
 -   [Aviññaq](story%202.qmd) by Arthur Douglas Sr.
