@@ -16,6 +16,8 @@ website:
         text: Aviññaq
       - href: linguists.qmd
         text: For linguists
+      - href: flip_book.qmd
+        text: Flip Book test
   search: True
 
 format:

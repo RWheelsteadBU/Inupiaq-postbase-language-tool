@@ -10,7 +10,7 @@ This is an online tool to learn more about the postbase system in Inupiaq while 
 
 <p>There is an option to read each story in Inupiaq only, or Inupiaq and English. Additionally, if you hover your mouse over specific words, a pop-up bubble will offer information about the structure of the Inupiaq word and any additional or helpful notes.</p>
 
-<p>Stems, or the base of a word, are colored green. </p>
+<p>Stems, or the base of a word, are colored green.</p>
 
 <p>Postbases are colored magenta.</p>
 
