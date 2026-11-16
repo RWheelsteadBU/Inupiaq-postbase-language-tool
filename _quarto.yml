@@ -1,3 +1,4 @@
+
 project:
   type: website
   output-dir: docs
@@ -6,19 +7,19 @@ website:
   title: "Inupiaq postbase tool"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: story 1.qmd
-        text: Taiguaqta
-      - href: story 2.qmd
-        text: Aviññaq
-      - href: linguists.qmd
-        text: For linguists
-      - href: flip_book.qmd
-        text: Flip Book test
-  search: True
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Taiguaqta
+        href: "story 1.qmd"
+      - text: Aviññaq
+        href: "story 2.qmd"
+      - text: For linguists
+        href: linguists.qmd
+      - text: Flip Book test
+        href: flip_book.qmd
+  search: true
 
 format:
   html:
@@ -27,4 +28,3 @@ format:
     toc: true
 
 editor: visual
-
