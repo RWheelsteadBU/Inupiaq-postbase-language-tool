@@ -2,6 +2,10 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - jquery.js
+    - turn.js
+    - flipbook_styles.css
 
 website:
   title: "Inupiaq postbase tool"

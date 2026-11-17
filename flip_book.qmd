@@ -1,36 +1,43 @@
 ---
-title: "flip_book"
-format: 
-  html: 
+title: "Flip Book"
+format:
+  html:
     css: flipbook_styles.css
 ---
 
-```{=html} 
-<div class = "flipbook">
+<div class="flipbook">
 
-<!-- Front cover of the book -->
-  <div class = "hard"> Flip Book <small> by Me </small> </div>
-  <div class = "hard"> </div>
-  
-  <div> 
-    <small> This is practice text. </small>
+  <div class="hard">
+    <h2>Flip Book</h2>
+    <small>by Me</small>
   </div>
-  
+
+  <div class="hard"></div>
+
   <div>
-    <small> What about this page? </small>
+    <small>Page 1</small>
+    <small>This is practice text.</small>
   </div>
-    
-  <div>  
-    <small> Don't forget this one too. </small>
+
+  <div>
+    <small>Page 2</small>
+    <small>What about this page?</small>
   </div>
-  
-  <div class = "hard"> </div>
-  <div class = "hard"> </div>
+
+  <div>
+    <small>Page 3</small>
+    <small>Don't forget this one too.</small>
+  </div>
+
+  <div class="hard"></div>
+  <div class="hard"></div>
+
 </div>
 
-<script src = "jquery.js"> </script>
-<script src = "turn.js"> </script>
-<script> 
+<script src="jquery.js"></script>
+<script src="turn.js"></script>
+
+<script>
   $(".flipbook").turn();
+
 </script>
-```

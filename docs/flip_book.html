@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>flip_book – Inupiaq postbase tool</title>
+<title>Flip Book – Inupiaq postbase tool</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -132,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">flip_book</h1>
+<h1 class="title">Flip Book</h1>
 </div>
 
 
@@ -150,31 +150,37 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="flipbook">
-
-<!-- Front cover of the book -->
-  <div class="hard"> Flip Book <small> by Me </small> </div>
-  <div class="hard"> </div>
-  
-  <div> 
-    <small> This is practice text. </small>
-  </div>
-  
-  <div>
-    <small> What about this page? </small>
-  </div>
-    
-  <div>  
-    <small> Don't forget this one too. </small>
-  </div>
-  
-  <div class="hard"> </div>
-  <div class="hard"> </div>
+<div class="hard">
+<pre><code>&lt;h2&gt;Flip Book&lt;/h2&gt;
+&lt;small&gt;by Me&lt;/small&gt;</code></pre>
 </div>
+<div class="hard">
 
-<script src="jquery.js"> </script>
-<script src="turn.js"> </script>
-<script> 
+</div>
+<div>
+<pre><code>&lt;small&gt;Page 1&lt;/small&gt;
+&lt;small&gt;This is practice text.&lt;/small&gt;</code></pre>
+</div>
+<div>
+<pre><code>&lt;small&gt;Page 2&lt;/small&gt;
+&lt;small&gt;What about this page?&lt;/small&gt;</code></pre>
+</div>
+<div>
+<pre><code>&lt;small&gt;Page 3&lt;/small&gt;
+&lt;small&gt;Don't forget this one too.&lt;/small&gt;</code></pre>
+</div>
+<div class="hard">
+
+</div>
+<div class="hard">
+
+</div>
+</div>
+<script src="jquery.js"></script>
+<script src="turn.js"></script>
+<script>
   $(".flipbook").turn();
+
 </script>
 
 
