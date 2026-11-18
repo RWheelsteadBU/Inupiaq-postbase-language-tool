@@ -4,4 +4,4 @@ title: "linguists"
 
 <u> Inupiaq stories in progress </u>
 
--   [Taiguaqta](story%201L.qmd) by Edna MacLean
+-   [Taiguaqta](story%201.qmd) by Edna MacLean
