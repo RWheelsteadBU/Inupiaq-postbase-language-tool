@@ -50,7 +50,7 @@ format:
 
         <p> This sentence has the same verb base from the previous line, “<span style="color: lime">niksIksuq</span>” which means to fish. </p>
 
-        <p> This time, we are going to add some extra information to the verb. Inupiaq can do this through what is called a “<span style="color: magenta">postbase</span>”, which is always added after the verb base. This postbase, “<span style="color: magenta">llatu</span>”, means “to enjoy”, so when added to our verb base: “<span style="color: lime">niksIksuq</span>” + “<span style="color: magenta">llatu</span>”, it means “to enjoy fishing”. To make this a complete sentence, we still need to add a <span style="color: cyan">verb ending</span>, which tells us who or what is doing the action.  </p>
+        <p> Now, we are going to add some extra information to the verb. Inupiaq can do this through what is called a “<span style="color: magenta">postbase</span>”, which is always added after the verb base. This postbase, “<span style="color: magenta">llatu</span>”, means “to enjoy”, so when added to our verb base: “<span style="color: lime">niksIksuq</span>” + “<span style="color: magenta">llatu</span>”, it means “to enjoy fishing”. To make this a complete sentence, we still need to add a <span style="color: cyan">verb ending</span>, which tells us who or what is doing the action.  </p>
 
         <p> Similar to the first line of the story, we can use the “tuq” ending to tell us that “he” enjoys fishing, but when the letter before the ending is a vowel, it changes to “<span style="color: cyan">ruq</span>”. Since “<span style="color: magenta">llatu</span>” ends with the vowel “u”, we use the ending “<span style="color: cyan">ruq</span>” instead of “tuq” to mean “he” is the doer of the action. This chart can be a handy reference to find the correct verb ending for statements.</p>
 
@@ -61,12 +61,15 @@ format:
 <!-- PARAGRAPH 3 -->
 
     <div class="my-hover">
-      <span style="color: lime">Niksik</span><span style="color: magenta">su</span><span style="color: magenta">llatu</span><span style="color: cyan">viñ</span>?
+      <span style="color: lime">Niksiksuq</span><span style="color: magenta">llatu</span><span style="color: cyan">viñ</span>?
 
       <div class="my-hover-text">
-        <p><strong>Niksik-su-llatu-viñ</strong></p>
+        <p><strong><span style="color: lime">Niksiksuq</span>-<span style="color: magenta">llatu</span>-<span style="color: cyan">viñ</span></strong></p>
 
-        <p>Ending "viñ" is for intransitive, interrogative, second-person singular.</p>
+        <p><strong><span style="color: lime">to.fish</span>-<span style="color: magenta">to.enjoy</span>-<span style="color: cyan">question.you</span></strong></p>
+
+        <p>This time we are asking a question instead of making a statement. We have the same information from the previous lines, such as the verb base “<span style="color: lime">niksIksuq</span>” and postbase “<span style="color: magenta">llatu</span>”. The <span style="color: cyan">ending</span> we add will help us say that we are asking a question and who we are asking the question about. To ask a question to “you”, we use the ending “<span style="color: cyan">viñ”</span>. To see the whole chart of endings for questions, click here. </p>
+
       </div>
     </div>
   </div>
@@ -75,8 +78,8 @@ format:
 
 <br><br>
 <br><br>
+<br><br>
 
-<!--- PARAGRAPH 2 --->
 <div class="text-image-row">
 
   <div class="text-lines">
