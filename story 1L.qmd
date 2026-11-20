@@ -32,7 +32,7 @@ format:
         
         <p> This next word is our verb base. “<span style="color: lime">niksIksuq</span>” means to fish, but this verb also needs to tell us who is doing fishing.</p>
         
-        <p> To show who is doing the action of our sentence, we need a verb ending to add to our verb base “<span style="color: lime">niksIksuq</span>”. We can use the “<span style="color: cyan">tuq</span>” ending to tell us that “he” is fishing. You can read more about verb ending for statements here. </p>
+        <p> To show who is doing the action of our sentence, we need a verb ending to add to our verb base “<span style="color: lime">niksIksuq</span>”. We can use the “<span style="color: cyan">tuq</span>” ending to tell us that “he” is fishing. You can read more about verb ending for statements <a href="https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.bu1x09s7duhl">here</a>. </p>
         
       </div>
     </div>
@@ -52,7 +52,7 @@ format:
         
         <p> To make this a complete sentence, we still need to add a <span style="color: cyan">verb ending</span>, which tells us who or what is doing the action.  </p>
 
-        <p> Similar to the first line of the story, we can use the “tuq” ending to tell us that “he” enjoys fishing, but with one specific change. When the letter before the ending is a vowel, it changes to “<span style="color: cyan">ruq</span>”. Since “<span style="color: magenta">llatu</span>” ends with the vowel “u”, we use the ending “<span style="color: cyan">ruq</span>” instead of “tuq” to mean “he” is the doer of the action. This chart can be a handy reference to find the correct verb ending for statements.</p>
+        <p> Similar to the first line of the story, we can use the “tuq” ending to tell us that “he” enjoys fishing, but with one specific change. When the letter before the ending is a vowel, it changes to “<span style="color: cyan">ruq</span>”. Since “<span style="color: magenta">llatu</span>” ends with the vowel “u”, we use the ending “<span style="color: cyan">ruq</span>” instead of “tuq” to mean “he” is the doer of the action. <a href="https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.bu1x09s7duhl">This chart</a> can be a handy reference to find the correct verb ending for statements.</p>
 
       </div>
     </div>
@@ -68,7 +68,7 @@ format:
 
         <p><strong><span style="color: lime">to.fish</span>-<span style="color: magenta">to.enjoy</span>-<span style="color: cyan">question.you</span></strong></p>
 
-        <p>This time we are asking a question instead of making a statement. We have the same information from the previous lines, such as the verb base “<span style="color: lime">niksIksuq</span>” and postbase “<span style="color: magenta">llatu</span>”. The <span style="color: cyan">ending</span> we add will help us say that we are asking a question and who we are asking the question about. To ask a question to “you”, we use the ending “<span style="color: cyan">viñ”</span>. To see the whole chart of endings for questions, click here. </p>
+        <p>This time we are asking a question instead of making a statement. We have the same information from the previous lines, such as the verb base “<span style="color: lime">niksIksuq</span>” and postbase “<span style="color: magenta">llatu</span>”. The <span style="color: cyan">ending</span> we add will help us say that we are asking a question and who we are asking the question about. To ask a question to “you”, we use the ending “<span style="color: cyan">viñ”</span>. To see the whole chart of endings for questions, click <a href="https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.q7u03yo5jxcohere">here</a>. </p>
 
       </div>
     </div>

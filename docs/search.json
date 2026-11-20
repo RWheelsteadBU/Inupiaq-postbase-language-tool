@@ -21,13 +21,6 @@
     "text": "Inupiaq stories in progress \n\nTaiguaqta by Edna MacLean"
   },
   {
-    "objectID": "flip_book.html",
-    "href": "flip_book.html",
-    "title": "Flip Book",
-    "section": "",
-    "text": "&lt;h2&gt;Flip Book&lt;/h2&gt;\n&lt;small&gt;by Me&lt;/small&gt;\n\n\n\n\n\n&lt;small&gt;Page 1&lt;/small&gt;\n&lt;small&gt;This is practice text.&lt;/small&gt;\n\n\n&lt;small&gt;Page 2&lt;/small&gt;\n&lt;small&gt;What about this page?&lt;/small&gt;\n\n\n&lt;small&gt;Page 3&lt;/small&gt;\n&lt;small&gt;Don't forget this one too.&lt;/small&gt;"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Home",
@@ -49,18 +42,18 @@
     "text": "Word structure basics\n\nPiece 1 (required) of an Inupiaq word: a base\n\nEach word will always have a base, made up of a noun (person, place, or thing) OR a verb (action). This base is sometimes enough information to be the only part of a word, usually when it is a noun.\nFor example: kuuk “river” is a base and can be a word all on its own.\n\n\nIn the stories, word bases are colored green.\n\n\nWhen word bases are verbs, we also need to include information about who is doing or receiving the verb action. For example, using the verb base “aqpat” “to kick” is not enough information to create a full word. We still need to know WHO is doing the kicking.\n\n\n\n\nPiece 2 (optional, but often used) of an Inupiaq word: an ending\n\nWe can do this through word endings. These can be tricky because we need to use specific endings depending on if we are saying a statement, a question, if there is an action doer, and if there is an action receiver.\n\n\nHere is a handy guide for word endings. Click on the corresponding chart to find the correct word ending you’re looking for!\n\nIs your verb in a regular sentence/statement?\nIs your verb in a question?\nDoes your verb have a doer of an action AND a receiver of an action?\n\n\n\nIn the stories, word endings are colored blue.\n\n\n\n\nPiece 3 (optional) of an Inupiaq word: a postbase\n\nPostbases are colored magenta."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Iñupiaq Postbase Tool",
+    "objectID": "flip_book.html",
+    "href": "flip_book.html",
+    "title": "Flip Book",
     "section": "",
-    "text": "."
+    "text": "&lt;h2&gt;Flip Book&lt;/h2&gt;\n&lt;small&gt;by Me&lt;/small&gt;\n\n\n\n\n\n&lt;small&gt;Page 1&lt;/small&gt;\n&lt;small&gt;This is practice text.&lt;/small&gt;\n\n\n&lt;small&gt;Page 2&lt;/small&gt;\n&lt;small&gt;What about this page?&lt;/small&gt;\n\n\n&lt;small&gt;Page 3&lt;/small&gt;\n&lt;small&gt;Don't forget this one too.&lt;/small&gt;"
   },
   {
     "objectID": "story 1.html",
     "href": "story 1.html",
     "title": "Taiguaqta by Edna Ahgeak MacLean",
     "section": "",
-    "text": "Inupiaq\n\n\n\n\n\n  \n  \n    \n    \n      Nukatpiaġruk  niksiksuqtuq.\n\n      \n        Nukatpiaġruk niksik-suq-tuq\n        \n         niksik means \"to fish\". It is the foundation for our Inupiaq word. \n        \n         \n        \n      \n    \n\n    \n      Niksiksullaturuq.\n\n      \n        Niksik-su-llatu-ruq.\n        \n         niksik means \"to fish\". It is the foundation for our Inupiaq sentence. \n\n         su means \"regularly\". \n\n         llatu means \"to enjoy Xing\".\n\n         ruq is for sentences that are statements. It is also used when the subject of the sentence is \"he/she/it\".\n      \n    \n\n    \n      Niksiksullatuviñ?\n\n      \n        Niksik-su-llatu-viñ\n\n        Ending \"viñ\" is for intransitive, interrogative, second-person singular.\n      \n    \n  \n  \n\n\n\n\n\n\n\n\n  \n  \n    \n      Aġnaġlu nukatpiaġlu kuvriqsuk.\n\n      \n        Agnaq-lu nukatpiaq-lu kuvrIq-tuk\n\n        Postbase \"lu\" means \"and\". Notice it is marked on both subjects in the sentence.\n\n        Ending \"tuk\" is for intransitive, indicative, third-person dual marking.\n\n        Notice the strong i in \"kuvrIq\"? Near the end of the word, it palatalizes the \"t\" in \"tuk\" to \"s\".\n      \n    \n    \n    \n      Nukatpiaq aquttuq.\n\n      \n        Nukatpiaq aqut-tuq\n\n        Ending \"tuq\" is for intransitive, indicative, third-person singular. Note how it is different from \"tuk\" in the previous story line.\n      \n    \n    \n    \n      Kuvriqsiḷḷaviñ?\n\n      \n        Kuvriq-si-ḷḷa-viñ\n\n        Postbase \"ḷḷa\" means \"to be able to\".\n\n        Ending \"viñ\" is for intransitive, interrogative, second-person, singular.\n      \n    \n  \n  \n\n\n\n\n\n\n\nEnglish\n\n\nLet’s Read! by Edna Agheak MacLean\n\n\nThe boy is fishing.\n\n\nHe enjoys fishing.\n\n\nDo you like fishing?\n\n\n\nThe woman and the young man are setting a net.\n\n\nThe young man is steering the boat.\n\n\nCan you set a net?\n\n\n\n\n›"
+    "text": "Inupiaq\n\n\n\n\n\n  \n  \n    \n    \n      Nukatpiaġruk  niksiksuqtuq.\n\n      \n        Nukatpiaġruk niksik-suq-tuq\n        \n         Stem “niksiksuq” means to fish. There is a strong i in this stem, which is represented orthographically with a I in linguistic analysis. \n        \n        “Tuq” is for intransitive, indicative, third-person singular. Note that “tuq” is used when following a consonant, while “ruq” of the same meaning is used following a vowel. You can find the intransitive, indicative paradigm here.\n        \n      \n    \n\n    \n      Niksiksuqllaturuq.\n\n      \n        Niksik-su-llatu-ruq.\n\n         Postbase llatu means \"to enjoy Xing\". This postbase attaches to a verbal stem with no change in grammatical category, represented by the notation: vv. \n\n         Ending “tuq” is used for intransitive, indicative, third-person singular. Note that “tuq” is used when following a consonant, while “ruq” of the same meaning is used following a vowel. Note the paradigm for intransitive, indicative endings here.\n      \n    \n\n    \n      Niksiksullatuviñ?\n\n      \n        Niksik-su-llatu-viñ\n\n        Ending \"viñ\" is for intransitive, interrogative, second-person singular.\n      \n    \n  \n  \n\n\n\n\n\n\n\n\n  \n  \n    \n      Aġnaġlu nukatpiaġlu kuvriqsuk.\n\n      \n        Agnaq-lu nukatpiaq-lu kuvrIq-tuk\n\n        Postbase \"lu\" means \"and\". Notice it is marked on both subjects in the sentence.\n\n        Ending \"tuk\" is for intransitive, indicative, third-person dual marking.\n\n        Notice the strong i in \"kuvrIq\"? Near the end of the word, it palatalizes the \"t\" in \"tuk\" to \"s\".\n      \n    \n    \n    \n      Nukatpiaq aquttuq.\n\n      \n        Nukatpiaq aqut-tuq\n\n        Ending \"tuq\" is for intransitive, indicative, third-person singular. Note how it is different from \"tuk\" in the previous story line.\n      \n    \n    \n    \n      Kuvriqsiḷḷaviñ?\n\n      \n        Kuvriq-si-ḷḷa-viñ\n\n        Postbase \"ḷḷa\" means \"to be able to\".\n\n        Ending \"viñ\" is for intransitive, interrogative, second-person, singular.\n      \n    \n  \n  \n\n\n\n\n\n\n\nEnglish\n\n\nLet’s Read! by Edna Agheak MacLean\n\n\nThe boy is fishing.\n\n\nHe enjoys fishing.\n\n\nDo you like fishing?\n\n\n\nThe woman and the young man are setting a net.\n\n\nThe young man is steering the boat.\n\n\nCan you set a net?\n\n\n\n\n›"
   },
   {
     "objectID": "story 2.html",
