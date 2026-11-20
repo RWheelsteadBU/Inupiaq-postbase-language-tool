@@ -20,7 +20,7 @@ format:
   <div class="text-lines">
     
     <div class="my-hover">
-      <span style=”color:lime”>Nukatpiaġruk</span> <span style="color: lime"> niksiksuq</span><span style="color: cyan">tuq</span>.
+      <span style="color:lime">Nukatpiaġruk</span> <span style="color: lime"> niksiksuq</span><span style="color: cyan">tuq</span>.
 
 
       <div class="my-hover-text">
