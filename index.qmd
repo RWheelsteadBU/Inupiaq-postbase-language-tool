@@ -1,8 +1,0 @@
----
-title: "Iñupiaq Postbase Tool"
----
-
-<u> Inupiaq stories in progress </u>
-
--   [Taiguaqta](story%201L.qmd) by Edna MacLean
--   [Aviññaq](story%202.qmd) by Arthur Douglas Sr.

@@ -94,7 +94,7 @@ format:
       Sunauvvagguuq uvva iñuum tutmavia maqatlami, imiġmik imalik ikaakkaŋa.
       
       <div class="my-hover-text">
-        <p><strong> Sunauvvagguuq uvva iñuum tutmi-avia maqatlami, imik-mik ima-lik ikaakkaŋa. </strong></p>
+        <p><strong> Sunauvvagguuq uvva iñuum tutmi-avia maqatlami, imik-mik ima-lik ikaak-kaŋa. </strong></p>
         
       </div>
     </div>
@@ -102,7 +102,6 @@ format:
 </div>
 
 </div>
-
 ```
 :::
 
@@ -111,15 +110,15 @@ format:
 
 <p><strong> The Mouse Story by Arthur Douglas Sr. </strong></p>
 
-<p> It is said that once upon a time, Mouse was swimming. </p>
+<p>It is said that once upon a time, Mouse was swimming.</p>
 
-<p> He crossed a river. </p>
+<p>He crossed a river.</p>
 
-<p> After he had crossed it, he looked back and proudly remarked, </p>
+<p>After he had crossed it, he looked back and proudly remarked,</p>
 
-<p> "I have crossed the great big river all by myself." </p> 
+<p>"I have crossed the great big river all by myself."</p>
 
-<p> Actually, what had happened was that he had crossed a person's footprint in soft mud which was filled with water. </p>
+<p>Actually, what had happened was that he had crossed a person's footprint in soft mud which was filled with water.</p>
 :::
 
 ```{=html}
@@ -129,7 +128,6 @@ format:
 
 </button>
 ```
-
 :::::
 
 ```{=html}
@@ -157,5 +155,3 @@ button.textContent = "›";
 
 </script>
 ```
-
-

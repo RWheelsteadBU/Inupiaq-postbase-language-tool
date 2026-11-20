@@ -12,8 +12,6 @@ website:
   navbar:
     left:
       - text: Home
-        href: index.qmd
-      - text: About
         href: about.qmd
       - text: Taiguaqta
         href: "story 1L.qmd"

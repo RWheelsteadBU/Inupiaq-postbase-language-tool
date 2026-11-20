@@ -1,25 +1,69 @@
 ---
-title: "About"
+title: "Home"
 ---
 
-This is an online tool to learn more about the postbase system in Inupiaq while also engaging with Inupiat stories.
+This is an online tool to learn more about the word structure in Inupiaq while also reading Inupiat-written stories.
 
-<u> How to use this tool </u>
+<br>
+
+<u> Inupiaq stories in progress </u>
+
+-   [Taiguaqta](story%201L.qmd) by Edna MacLean
+
+-   [Aviññaq](story%202.qmd) by Arthur Douglas Sr
+
+    <br>
+
+## <u><strong>How to use this tool</strong></u>
 
 <p>This tool offers a way to read Inupiat stories online and interact with the structure of the language. This can help learners see how different elements of a word interact with each other in different ways.</p>
 
 <p>There is an option to read each story in Inupiaq only, or Inupiaq and English. Additionally, if you hover your mouse over specific words, a pop-up bubble will offer information about the structure of the Inupiaq word and any additional or helpful notes.</p>
 
-<p>Stems, or the base of a word, are colored green.</p>
-
-<p>Postbases are colored magenta.</p>
-
-<p>Endings, or inflections, are colored blue.</p>
-
 <p><strong>For linguists:</strong></p>
 
 Please click on the "For linguists" tab. These stories will follow a similar format to the learner stories, but the information presented in the pop-up bubbles will instead include glosses and linguistic jargon.
 
-<u> Postbase and word structure basics </u>
+<br><br>
 
-<p>(information adapted from Myles Creed's 2024 Ilisazaqta Inupiaqtun)</p>
+## <u><strong>Word structure basics</strong></u>
+
+### <strong>Piece 1 (required) of an Inupiaq word: a base</strong>
+
+<p>
+
+Each word will always have a <strong>[base]{style="color: lime"}</strong>, made up of a noun (person, place, or thing) OR a verb (action). This base is sometimes enough information to be the only part of a word, usually when it is a noun.
+
+For example: [kuuk]{style="color: lime"} "river" is a [base]{style="color: lime"} and can be a word all on its own.
+
+</p>
+
+<p>In the stories, [word bases are colored green]{style="color: lime"}.</p>
+
+<p>When [word bases]{style="color: lime"} are verbs, we also need to include information about who is doing or receiving the verb action. For example, using the verb base "[aqpat]{style="color: lime"}" "to kick" is not enough information to create a full word. We still need to know WHO is doing the kicking.</p>
+
+<br>
+
+### <strong>Piece 2 (optional, but often used) of an Inupiaq word: an ending</strong>
+
+<p>We can do this through [word endings]{style="color: cyan"}. These can be tricky because we need to use specific endings depending on if we are saying a statement, a question, if there is an action doer, and if there is an action receiver.</p>
+
+<p>
+
+Here is a handy guide for word endings. Click on the corresponding chart to find the correct word ending you're looking for!
+
+-   [Is your verb in a regular sentence/statement?](https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.bu1x09s7duhl)
+
+-   [Is your verb in a question?](https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.q7u03yo5jxco)
+
+-   [Does your verb have a doer of an action AND a receiver of an action?](https://docs.google.com/document/d/1lBoGDhSwnkRaCIcAOhZAt4fp3lyXVTqGpgi_O9o3W5U/edit?tab=t.p4cfq75wypwg)
+
+    </p>
+
+<p>In the stories, word endings are colored [blue]{style="color: cyan"}.</p>
+
+<br>
+
+### <strong>Piece 3 (optional) of an Inupiaq word: a postbase</strong>
+
+<p>Postbases are colored magenta.</p>
